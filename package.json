@@ -1,0 +1,17 @@
+{
+  "name": "wbite-board",
+  "version": "1.0.0",
+  "description": "It's good white board",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.12.0",
+    "socket.io": "^1.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "author": "Wiktor Bogacki",
+  "license": "ISC"
+}
